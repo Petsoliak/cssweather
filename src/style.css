@@ -1,0 +1,126 @@
+
+body {
+    margin: 0;
+    border: 10px solid;
+    height: 650px;;
+    border-color: #2d89ae;
+    background-color: #399dcf;
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #e0e1f5;
+}
+
+
+p {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.container {
+    display: inline-block;
+    margin-right: 200px;
+    margin-left: 200px;
+    color: #e0e1f5;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+
+ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    font-size: 0;
+    border: 1px solid white;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    padding: 26px;   
+    cursor: pointer; 
+}
+
+ul:hover li {
+    opacity: 0.5;
+}
+
+ul li:hover {
+opacity: 1;
+}
+
+.wi {
+    font-size: 25px;
+
+}
+
+
+.c1 {
+       width: 50%;
+       border: 2px solid white;
+       }
+.c2 {
+    width: 25%;
+    background-color: #39cfce;
+    border: 2px solid white;
+}
+.c3 {
+    width: 25%;
+    background-color: #9e6c9f;
+    border: 2px solid white;
+}
+.c4 {
+    width: 25%;
+    background-color: #c54d4e;
+    border: 2px solid white;
+}
+.c5 {
+    width: 25%;
+    background-color: #e46d4f;
+    border: 2px solid white;
+}
+.c6 {
+    width: 25%;
+    background-color: #ffcf6b;
+    border: 2px solid white;
+}
+.c7 {
+    width: 25%;
+    background-color: #9ed09f;
+    border: 2px solid white;
+}
+.c8 {
+    width: 25%;
+    background-color: #6c9e9d;
+    border: 2px solid white;
+}
+.c9 {
+    width: 50%;
+    background-color: #ce6c9d;
+    border: 2px solid white;
+}
+.c10 {
+    width: 25%;
+    background-color: #3a9e6c;
+    border: 2px solid white;
+}
+.c11 {
+    width: 100%;
+    background-color: #6c6c9e;
+    border: 2px solid white;
+}
+
+.footer h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 15px;
+    color: #e0e1f5;
+    font-size: 15px;
+}
+
+* {
+    transition: all .1s ease-in;
+    box-sizing: border-box;
+}
